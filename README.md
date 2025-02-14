@@ -56,53 +56,25 @@ I am a full-stack developer and a web penetration testing enthusiast from Yemen.
 ## 🚀 Featured Projects
 
 ### 🌐 Web Applications
-- **Pharmacy Management System** - Laravel-based enterprise solution:
-  - RESTful API architecture
-  - Advanced authentication and authorization
-  - Real-time inventory tracking
-  - Secure prescription processing
-  - Role-based access control
-
-- **Restaurant Management System** - PHP web application:
-  - Secure user authentication
-  - Inventory management
-  - Sales analytics dashboard
-
-- **Advanced Accounting System** - Modern web application:
-  - Built with Blazor for high performance
-
+- **Pharmacy Management System** - Laravel-based enterprise solution
+- **Restaurant Management System** - PHP web application
+- **Advanced Accounting System** - Modern web application: Built with Blazor for high performance
+  
 ### 🛡️ Security Tools & Research
-- [APIFuzz](https://github.com/Al-shwaib/APIFuzz) - Advanced API Security Testing Tool:
-  - Automated vulnerability scanning
-  - Custom security rule creation
-  - Detailed reporting system
+- [APIFuzz](https://github.com/Al-shwaib/APIFuzz) - Advanced API Security Testing Tool.
+- [OSENT-Search](https://github.com/Al-shwaib/OSENT-Search) - Web-based OSINT Tool.
 
-- [OSENT-Search](https://github.com/Al-shwaib/OSENT-Search) - Web-based OSINT Tool:
-  - Security information gathering
-  - Automated reconnaissance
-  - Web vulnerability assessment
-
-- [Phishing-Data-Scraper](https://github.com/Al-shwaib/Phishing-Data-Scraper) - Security Analysis Tool:
-  - Automated phishing detection
-  - Data analysis and reporting
-  - Threat intelligence gathering
-
-- [Network-Traffic-Visualizer](https://github.com/Al-shwaib/Network-Traffic-Visualizer) - Web Traffic Analysis:
-  - Real-time traffic monitoring
-  - Security pattern detection
-  - Threat visualization
+- [Phishing-Data-Scraper](https://github.com/Al-shwaib/Phishing-Data-Scraper) - Security Analysis Tool.
+- [Network-Traffic-Visualizer](https://github.com/Al-shwaib/Network-Traffic-Visualizer) - Web Traffic Analysis.
 
 ### 📱 Additional Projects
 - **Pharmacy Finder** - Flutter mobile application
-- [Internet-Speed-Test](https://github.com/Al-shwaib/Internet-Speed-Test) - Network testing tool
+- [Internet-Speed-Test](https://github.com/Al-shwaib/Internet-Speed-Test) - Network testing tool.
 - [Integrated-AI-Chat-Interface](https://github.com/Al-shwaib/Integrated-AI-Chat-Interface) - AI integration
 
 ### 📚 Technical Documentation
 - [burpsuite-mastery-guide](https://github.com/Al-shwaib/burpsuite-mastery-guide) - Comprehensive web security testing guide
 - **Frida Arabic Guide** - Complete guide for:
-  - Web application security testing
-  - API security assessment
-  - Runtime analysis techniques
 
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Al-shwaib)
