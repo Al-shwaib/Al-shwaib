@@ -1,19 +1,27 @@
 # Hi there, I'm Abdulqudos Al-Shwaib 👋
 
 ## 🛡️ About Me
-Passionate Full-Stack Developer and Cybersecurity Engineer with expertise in building enterprise solutions and security tools. I specialize in web development, mobile applications, desktop solutions, and security testing.
+Web Development and Security Specialist with extensive experience in building and securing web applications. Proficient in full-stack web development, penetration testing, and security assessment. Also skilled in mobile and desktop development.
 
-## 🔧 Skills & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 🔧 Core Technologies
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## 🛡️ Security Expertise
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![API Testing](https://img.shields.io/badge/-API%20Testing-009688?style=flat-square&logo=postman&logoColor=white)
+![Web Security](https://img.shields.io/badge/-Web%20Security-000000?style=flat-square&logo=security&logoColor=white)
+
+## 🔨 Additional Skills
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Network Security](https://img.shields.io/badge/-Network%20Security-000000?style=flat-square&logo=cisco&logoColor=white)
-![API Testing](https://img.shields.io/badge/-API%20Testing-009688?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
@@ -33,50 +41,60 @@ Passionate Full-Stack Developer and Cybersecurity Engineer with expertise in bui
 
 ## 🚀 Featured Projects
 
-### 🏢 Enterprise Solutions
-- **Pharmacy Management System** - A Laravel application for streamlining pharmacy operations:
+### 🌐 Web Applications
+- **Pharmacy Management System** - Laravel-based enterprise solution:
+  - RESTful API architecture
+  - Advanced authentication and authorization
+  - Real-time inventory tracking
+  - Secure prescription processing
+  - Role-based access control
+
+- **Restaurant Management System** - PHP web application:
+  - Secure user authentication
+  - Real-time order processing
   - Inventory management
-  - Prescription processing
-  - Customer relationship management
-  - Real-time stock tracking
+  - Sales analytics dashboard
+  - API integration capabilities
 
-- **Restaurant Management System** - PHP-based solution for restaurant operations:
-  - Order management
-  - Inventory tracking
-  - Staff management
-  - Sales reporting
+- **Advanced Accounting System** - Modern web application:
+  - Built with Blazor for high performance
+  - Secure financial data handling
+  - RESTful API implementation
+  - Real-time reporting
+  - Multi-tenant architecture
 
-- **Advanced Accounting System** - WPF & Blazor Hybrid application:
-  - Modern UI/UX design
-  - Comprehensive financial management
-  - Invoice processing
-  - Expense and revenue tracking
-  - High-performance data handling
+### 🛡️ Security Tools & Research
+- [APIFuzz](https://github.com/Al-shwaib/APIFuzz) - Advanced API Security Testing Tool:
+  - Automated vulnerability scanning
+  - Custom security rule creation
+  - Detailed reporting system
 
-### 📱 Mobile Applications
-- **Pharmacy Finder** - Flutter-based graduation project:
-  - Pharmacy location services
-  - Medicine availability checking
-  - Prescription management
-  - User-friendly interface
+- [OSENT-Search](https://github.com/Al-shwaib/OSENT-Search) - Web-based OSINT Tool:
+  - Security information gathering
+  - Automated reconnaissance
+  - Web vulnerability assessment
 
-### 🛡️ Security Tools
-- [APIFuzz](https://github.com/Al-shwaib/APIFuzz) - API Security Testing Tool
-- [OSENT-Search](https://github.com/Al-shwaib/OSENT-Search) - OSINT Search Tool
-- [Phishing-Data-Scraper](https://github.com/Al-shwaib/Phishing-Data-Scraper) - Tool for Phishing Analysis
-- [Network-Traffic-Visualizer](https://github.com/Al-shwaib/Network-Traffic-Visualizer) - Network Traffic Analysis Tool
+- [Phishing-Data-Scraper](https://github.com/Al-shwaib/Phishing-Data-Scraper) - Security Analysis Tool:
+  - Automated phishing detection
+  - Data analysis and reporting
+  - Threat intelligence gathering
 
-### 💻 Development Projects
-- [Algorithms-Implementation-and-Visualization](https://github.com/Al-shwaib/Algorithms-Implementation-and-Visualization-Project) - Educational Algorithm Visualization
-- [Internet-Speed-Test](https://github.com/Al-shwaib/Internet-Speed-Test) - Network Performance Testing Tool
-- [Integrated-AI-Chat-Interface](https://github.com/Al-shwaib/Integrated-AI-Chat-Interface) - AI-Powered Chat Interface
+- [Network-Traffic-Visualizer](https://github.com/Al-shwaib/Network-Traffic-Visualizer) - Web Traffic Analysis:
+  - Real-time traffic monitoring
+  - Security pattern detection
+  - Threat visualization
 
-### 📚 Technical Guides & Documentation
-- [burpsuite-mastery-guide](https://github.com/Al-shwaib/burpsuite-mastery-guide) - Comprehensive Guide for Burp Suite
-- **Frida Arabic Guide** - Complete Arabic guide for:
-  - Mobile application penetration testing
+### 📱 Additional Projects
+- **Pharmacy Finder** - Flutter mobile application
+- [Internet-Speed-Test](https://github.com/Al-shwaib/Internet-Speed-Test) - Network testing tool
+- [Integrated-AI-Chat-Interface](https://github.com/Al-shwaib/Integrated-AI-Chat-Interface) - AI integration
+
+### 📚 Technical Documentation
+- [burpsuite-mastery-guide](https://github.com/Al-shwaib/burpsuite-mastery-guide) - Comprehensive web security testing guide
+- **Frida Arabic Guide** - Complete guide for:
   - Web application security testing
-  - Runtime manipulation and analysis
+  - API security assessment
+  - Runtime analysis techniques
 
 ## 🌐 Connect With Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Al-shwaib)
