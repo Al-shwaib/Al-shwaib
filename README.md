@@ -20,7 +20,7 @@ Web Development and Security Specialist with extensive experience in building an
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-009688?style=flat-square&logo=postman&logoColor=white)
 ![Web Security](https://img.shields.io/badge/-Web%20Security-000000?style=flat-square&logo=security&logoColor=white)
-![Android Security](https://img.shields.io/badge/-Android%20Security-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Android App Security](https://img.shields.io/badge/-Android%20Security-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Frida](https://img.shields.io/badge/-Frida-00ADD8?style=flat-square&logo=frida&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/-Cryptography-276DC3?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADSSURBVCiRrdKxSgNBFIXhb9dgKzZiYSUopHBbwd4HsLSMjY2FXWK5rQQ7BSsrK4sUgkWKPICFVkJYJJWVFsklxYAiuza7kHXBU907c+bMnWGO0mKNHzzgDu2i/xUjzLHAAXawhwE+UcHeCn6IKeYB7eAFm0X/GXeBjvG4YjvFZ0A/0QRHa0Cv+AvoBZ20wA0+8IwLHK6wRfSVBo+4xWkKvR6O8YSrFDpLwQlOVuyr/+2jGdpwHtDNGnCGVmhjFPoa/vbfNvCOl9D3/xkLzX5yCw3qC+tWgQAAAABJRU5ErkJggg==)
 
