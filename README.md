@@ -77,7 +77,16 @@ I am a full-stack developer and a web penetration testing enthusiast from Yemen.
 - **Frida Arabic Guide** - Complete guide for:
 
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Al-shwaib)
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Al-shwaib)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alshwaib_dev)
+[![DEV.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/alshwaib)
+[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alshwaib1)
+
+</div>
 
 ## 📈 Profile Activity
 <!-- Profile Views Counter -->
