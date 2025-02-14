@@ -1,5 +1,10 @@
+<h1 align="center">
+  <a href="https://github.com/Al-shwaib">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Abdulqudos+Al-Shwaib&center=true&size=30&color=FF69B4">
+  </a>
+</h1>
 
-<p align="center"><a href=""><img width="80%" alt="Hi there, I'm Abdulqudos Al-Shwaib 👋" src="" /></a></p>
+<p align="center">I do Web Development and Security Testing :)</p>
 
 <br />
 
