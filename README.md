@@ -1,7 +1,10 @@
-# Hi there, I'm Abdulqudos Al-Shwaib 👋
+
+<p align="center"><a href=""><img width="80%" alt="Hi there, I'm Abdulqudos Al-Shwaib 👋" src="" /></a></p>
+
+<br />
 
 ## 🛡️ About Me
-Web Development and Security Specialist with extensive experience in building and securing web applications. Proficient in full-stack web development, penetration testing, and security assessment. Also skilled in mobile and desktop development.
+I am a full-stack developer and a web penetration testing enthusiast from Yemen.
 
 ## 🔧 Core Technologies
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
