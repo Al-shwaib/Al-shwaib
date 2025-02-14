@@ -41,16 +41,16 @@ I am a full-stack developer and a web penetration testing enthusiast from Yemen.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<!-- GitHub Stats Card with animations and icons -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al-shwaib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Al-shwaib&theme=tokyonight&hide_border=true)](https://github.com/Al-shwaib)
-
-<!-- Most Used Languages - Donut Chart -->
-<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-shwaib&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/Al-shwaib) -->
-
+  <table>
+    <tr>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Al-shwaib&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+      </td>
+      <td width="50%">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Al-shwaib&theme=tokyonight&hide_border=true">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Featured Projects
