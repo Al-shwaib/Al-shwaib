@@ -88,7 +88,7 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <h2>💝 Support My Work</h2>
   
   <a href="https://www.buymeacoffee.com/alshwaib">
@@ -102,7 +102,7 @@
   <a href="https://www.patreon.com/alshwaib">
     <img src="https://img.shields.io/badge/Support%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
-</div>
+</div> -->
 
 <br>
 
