@@ -37,6 +37,51 @@
 </div>
 
 <div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
+
+<div align="center">
+  <h3>🌐 Web Applications</h3>
+  <p>
+    <a href="https://github.com/Al-shwaib/pharmacy-management">
+      <img src="https://img.shields.io/badge/Pharmacy%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    </a>
+    <a href="https://github.com/Al-shwaib/restaurant-system">
+      <img src="https://img.shields.io/badge/Restaurant%20System-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    </a>
+    <a href="https://github.com/Al-shwaib/accounting-system">
+      <img src="https://img.shields.io/badge/Accounting%20System-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+    </a>
+  </p>
+
+  <h3>🛡️ Security Tools</h3>
+  <p>
+    <a href="https://github.com/Al-shwaib/APIFuzz">
+      <img src="https://img.shields.io/badge/APIFuzz-API%20Security%20Testing-2EA043?style=for-the-badge&logo=swagger&logoColor=white" />
+    </a>
+    <br>
+    <a href="https://github.com/Al-shwaib/OSENT-Search">
+      <img src="https://img.shields.io/badge/OSENT--Search-OSINT%20Tool-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <br>
+    <a href="https://github.com/Al-shwaib/Phishing-Data-Scraper">
+      <img src="https://img.shields.io/badge/Phishing%20Scraper-Security%20Analysis-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+    </a>
+  </p>
+
+  <h3>📱 Mobile & Tools</h3>
+  <p>
+    <a href="https://github.com/Al-shwaib/pharmacy-finder">
+      <img src="https://img.shields.io/badge/Pharmacy%20Finder-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    </a>
+    <br>
+    <a href="https://github.com/Al-shwaib/Internet-Speed-Test">
+      <img src="https://img.shields.io/badge/Speed%20Test-Network%20Tool-1A73E8?style=for-the-badge&logo=speedtest&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
   <h2>📊 GitHub Analytics</h2>
   <table>
     <tr>
@@ -45,29 +90,6 @@
       </td>
       <td width="50%">
         <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Al-shwaib&theme=tokyonight&hide_border=true">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  
-  <table>
-    <tr>
-      <td><b>🌐 Web Applications</b></td>
-      <td><b>🛡️ Security Tools</b></td>
-    </tr>
-    <tr>
-      <td>
-        • Pharmacy Management System (Laravel)<br>
-        • Restaurant Management System (PHP)<br>
-        • Advanced Accounting System (Blazor)
-      </td>
-      <td>
-        • <a href="https://github.com/Al-shwaib/APIFuzz">APIFuzz</a> - API Security Testing<br>
-        • <a href="https://github.com/Al-shwaib/OSENT-Search">OSENT-Search</a> - OSINT Tool<br>
-        • <a href="https://github.com/Al-shwaib/Phishing-Data-Scraper">Phishing-Data-Scraper</a>
       </td>
     </tr>
   </table>
