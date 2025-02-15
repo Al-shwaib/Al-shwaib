@@ -89,11 +89,47 @@ I am a full-stack developer and a web penetration testing enthusiast from Yemen.
 </div>
 
 ## 📈 Profile Activity
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Al-shwaib&color=blue&style=flat-square)
 
-<!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Al-shwaib&theme=tokyo-night&hide_border=true)](https://github.com/Al-shwaib)
+<div align="center">
+
+<!-- Profile Views Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Al-shwaib&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/Al-shwaib?style=for-the-badge&logo=github)](https://github.com/Al-shwaib?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Al-shwaib?style=for-the-badge&logo=github)](https://github.com/Al-shwaib?tab=stars)
+
+<!-- Activity Graph with green theme -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Al-shwaib&theme=github-compact&hide_border=true&bg_color=0D1117&color=4C9E50&line=2EA043&point=4C9E50&area=true&area_color=238636)](https://github.com/Al-shwaib)
+
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/Al-shwaib/Al-shwaib/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</div>
+
+<!-- Dynamic Quotes -->
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<!-- Support Section -->
+<div align="center">
+  
+  ### ⭐ Support My Work
+  <a href="https://www.buymeacoffee.com/alshwaib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=alshwaib&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+  ### Thanks for visiting! 👋
+  ![](https://hit.yhype.me/github/profile?user_id=Al-shwaib)
+
+</div>
 
 ---
 ⭐ Thank you for visiting my profile! Feel free to check out my repositories and don't forget to star your favorites!
