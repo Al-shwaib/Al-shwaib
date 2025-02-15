@@ -20,49 +20,58 @@
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" width="48" height="48" alt="PHP" />
-        <br>PHP
+  
+  <table style="border: none; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td align="center" width="80" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/php-icon.svg" width="40" height="40" alt="PHP" />
+        <br><sub>PHP</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
+      <td align="center" width="80" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" />
+        <br><sub>JavaScript</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-        <br>Python
+      <td align="center" width="80" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
+        <br><sub>Python</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-        <br>MySQL
+      <td align="center" width="80" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+        <br><sub>MySQL</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
-        <br>.NET
+      <td align="center" width="80" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
+        <br><sub>.NET</sub>
+      </td>
+      <td align="center" width="80" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+        <br><sub>Laravel</sub>
       </td>
     </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
+    <tr style="border: none; background: transparent;">
+      <td align="center" width="80" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" height="40" alt="Docker" />
+        <br><sub>Docker</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
-        <br>GitHub
+      <td align="center" width="80" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" />
+        <br><sub>GitHub</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        <br>Linux
+      <td align="center" width="80" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+        <br><sub>Linux</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-        <br>Flutter
+      <td align="center" width="80" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+        <br><sub>Flutter</sub>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" />
-        <br>AWS
+      <td align="center" width="80" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" alt="AWS" />
+        <br><sub>AWS</sub>
+      </td>
+      <td align="center" width="80" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
+        <br><sub>Android</sub>
       </td>
     </tr>
   </table>
