@@ -25,7 +25,11 @@
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
   ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
   ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
   ![Android App Security](https://img.shields.io/badge/-Android%20Security-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -59,11 +63,9 @@
     <a href="https://github.com/Al-shwaib/APIFuzz">
       <img src="https://img.shields.io/badge/APIFuzz-API%20Security%20Testing-2EA043?style=for-the-badge&logo=swagger&logoColor=white" />
     </a>
-    <br>
     <a href="https://github.com/Al-shwaib/OSENT-Search">
       <img src="https://img.shields.io/badge/OSENT--Search-OSINT%20Tool-00ADD8?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <br>
     <a href="https://github.com/Al-shwaib/Phishing-Data-Scraper">
       <img src="https://img.shields.io/badge/Phishing%20Scraper-Security%20Analysis-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
     </a>
@@ -74,7 +76,6 @@
     <a href="https://github.com/Al-shwaib/pharmacy-finder">
       <img src="https://img.shields.io/badge/Pharmacy%20Finder-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     </a>
-    <br>
     <a href="https://github.com/Al-shwaib/Internet-Speed-Test">
       <img src="https://img.shields.io/badge/Speed%20Test-Network%20Tool-1A73E8?style=for-the-badge&logo=speedtest&logoColor=white" />
     </a>
