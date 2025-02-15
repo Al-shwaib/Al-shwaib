@@ -4,43 +4,40 @@
   </a>
 </h1>
 
-<p align="center">I do Web Development and Security Testing :)</p>
-
-<br />
-
-## 🛡️ About Me
-I am a full-stack developer and a web penetration testing enthusiast from Yemen.
-
-## 🔧 Core Technologies
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-
-## 🛡️ Security Expertise
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![API Testing](https://img.shields.io/badge/-API%20Testing-009688?style=flat-square&logo=postman&logoColor=white)
-![Web Security](https://img.shields.io/badge/-Web%20Security-000000?style=flat-square&logo=security&logoColor=white)
-![Android App Security](https://img.shields.io/badge/-Android%20Security-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Frida](https://img.shields.io/badge/-Frida-00ADD8?style=flat-square&logo=frida&logoColor=white)
-![Cryptography](https://img.shields.io/badge/-Cryptography-276DC3?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADSSURBVCiRrdKxSgNBFIXhb9dgKzZiYSUopHBbwd4HsLSMjY2FXWK5rQQ7BSsrK4sUgkWKPICFVkJYJJWVFsklxYAiuza7kHXBU907c+bMnWGO0mKNHzzgDu2i/xUjzLHAAXawhwE+UcHeCn6IKeYB7eAFm0X/GXeBjvG4YjvFZ0A/0QRHa0Cv+AvoBZ20wA0+8IwLHK6wRfSVBo+4xWkKvR6O8YSrFDpLwQlOVuyr/+2jGdpwHtDNGnCGVmhjFPoa/vbfNvCOl9D3/xkLzX5yCw3qC+tWgQAAAABJRU5ErkJggg==)
-
-## 🔨 Additional Skills
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-4A154B?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-## 📊 GitHub Stats
+<p align="center">I'm a Full-Stack Developer and Web Security Specialist from Yemen 🇾🇪</p>
 
 <div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Al-shwaib)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-shwaib/)
+  [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alshwaib_dev)
+  [![DEV.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/alshwaib)
+  [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alshwaib1)
+
+</div>
+
+<div align="center">
+  <h2>🛠️ Technologies & Tools</h2>
+  
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  
+  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+  ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+  ![Android App Security](https://img.shields.io/badge/-Android%20Security-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![Frida](https://img.shields.io/badge/-Frida-00ADD8?style=flat-square&logo=frida&logoColor=white)
+  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4A154B?style=flat-square&logo=github-actions&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
+
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
   <table>
     <tr>
       <td width="50%">
@@ -53,83 +50,41 @@ I am a full-stack developer and a web penetration testing enthusiast from Yemen.
   </table>
 </div>
 
-## 🚀 Featured Projects
-
-### 🌐 Web Applications
-- **Pharmacy Management System** - Laravel-based enterprise solution
-- **Restaurant Management System** - PHP web application
-- **Advanced Accounting System** - Modern web application: Built with Blazor for high performance
-  
-### 🛡️ Security Tools & Research
-- [APIFuzz](https://github.com/Al-shwaib/APIFuzz) - Advanced API Security Testing Tool.
-- [OSENT-Search](https://github.com/Al-shwaib/OSENT-Search) - Web-based OSINT Tool.
-
-- [Phishing-Data-Scraper](https://github.com/Al-shwaib/Phishing-Data-Scraper) - Security Analysis Tool.
-- [Network-Traffic-Visualizer](https://github.com/Al-shwaib/Network-Traffic-Visualizer) - Web Traffic Analysis.
-
-### 📱 Additional Projects
-- **Pharmacy Finder** - Flutter mobile application
-- [Internet-Speed-Test](https://github.com/Al-shwaib/Internet-Speed-Test) - Network testing tool.
-- [Integrated-AI-Chat-Interface](https://github.com/Al-shwaib/Integrated-AI-Chat-Interface) - AI integration
-
-### 📚 Technical Documentation
-- [burpsuite-mastery-guide](https://github.com/Al-shwaib/burpsuite-mastery-guide) - Comprehensive web security testing guide
-- **Frida Arabic Guide** - Complete guide for:
-
-## 🌐 Connect With Me
-
 <div align="center">
+  <h2>🚀 Featured Projects</h2>
   
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Al-shwaib)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-shwaib/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Alshwaib_dev)
-[![DEV.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/alshwaib)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alshwaib1)
-
+  <table>
+    <tr>
+      <td><b>🌐 Web Applications</b></td>
+      <td><b>🛡️ Security Tools</b></td>
+    </tr>
+    <tr>
+      <td>
+        • Pharmacy Management System (Laravel)<br>
+        • Restaurant Management System (PHP)<br>
+        • Advanced Accounting System (Blazor)
+      </td>
+      <td>
+        • <a href="https://github.com/Al-shwaib/APIFuzz">APIFuzz</a> - API Security Testing<br>
+        • <a href="https://github.com/Al-shwaib/OSENT-Search">OSENT-Search</a> - OSINT Tool<br>
+        • <a href="https://github.com/Al-shwaib/Phishing-Data-Scraper">Phishing-Data-Scraper</a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📈 Profile Activity
-
 <div align="center">
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Al-shwaib&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Al-shwaib?style=for-the-badge&logo=github)](https://github.com/Al-shwaib?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/Al-shwaib?style=for-the-badge&logo=github)](https://github.com/Al-shwaib?tab=stars)
-
-<!-- Activity Graph with green theme -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Al-shwaib&theme=github-compact&hide_border=true&bg_color=0D1117&color=4C9E50&line=2EA043&point=4C9E50&area=true&area_color=238636)](https://github.com/Al-shwaib)
-
+  <h2>📈 Activity Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-shwaib&theme=github-compact&hide_border=true&bg_color=0D1117&color=4C9E50&line=2EA043&point=4C9E50&area=true&area_color=238636" />
 </div>
 
-<!-- Snake animation -->
 <div align="center">
   <img src="https://github.com/Al-shwaib/Al-shwaib/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
 </div>
 
-<!-- Dynamic Quotes -->
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Al-shwaib&color=brightgreen&style=for-the-badge" />
 </div>
-
-<!-- Support Section -->
-<div align="center">
-  
-  ### ⭐ Support My Work
-  <a href="https://www.buymeacoffee.com/alshwaib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=alshwaib&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
-</div>
-
-<!-- Footer -->
-<div align="center">
-  
-  ### Thanks for visiting! 👋
-  ![](https://hit.yhype.me/github/profile?user_id=Al-shwaib)
-
-</div>
-
----
-⭐ Thank you for visiting my profile! Feel free to check out my repositories and don't forget to star your favorites!
