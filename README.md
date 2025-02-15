@@ -84,7 +84,32 @@
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2>💝 Support My Work</h2>
   
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Al-shwaib&color=brightgreen&style=for-the-badge" />
+  <a href="https://www.buymeacoffee.com/alshwaib">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=alshwaib&button_colour=1A1B27&font_colour=FFFFFF&font_family=Poppins&outline_colour=2EA043&coffee_colour=FFDD00" />
+  </a>
+  
+  <a href="https://ko-fi.com/alshwaib">
+    <img src="https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  
+  <a href="https://www.patreon.com/alshwaib">
+    <img src="https://img.shields.io/badge/Support%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/github/followers/Al-shwaib?label=Followers&style=for-the-badge&color=2EA043&labelColor=1A1B27" />
+    <img src="https://img.shields.io/github/stars/Al-shwaib?label=Stars&style=for-the-badge&color=2EA043&labelColor=1A1B27" />
+    <img src="https://komarev.com/ghpvc/?username=Al-shwaib&style=for-the-badge&color=2EA043&label=Visitors&labelColor=1A1B27" />
+  </p>
 </div>
