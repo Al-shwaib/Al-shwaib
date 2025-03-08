@@ -135,10 +135,10 @@
   </table>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>📈 Activity Graph</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Al-shwaib&theme=github-compact&hide_border=true&bg_color=0D1117&color=4C9E50&line=2EA043&point=4C9E50&area=true&area_color=238636" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github.com/Al-shwaib/Al-shwaib/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
