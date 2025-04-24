@@ -92,7 +92,7 @@
         <a href="https://github.com/Al-shwaib/School-Management-System">
       <img src="https://img.shields.io/badge/School%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
-    <a href="https://github.com/Al-shwaib/Resturant-Management-System">
+    <a href="https://github.com/Al-shwaib/Restaurant-Management-System">
       <img src="https://img.shields.io/badge/Resturant%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
     <!-- <a href="https://github.com/Al-shwaib/accounting-system">
