@@ -89,10 +89,10 @@
     <a href="https://github.com/Al-shwaib/pharmacy-management">
       <img src="https://img.shields.io/badge/Pharmacy%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
-        <a href="https://github.com/Al-shwaib/Al-shwaib/School-Management-System">
+        <a href="https://github.com/Al-shwaib/School-Management-System">
       <img src="https://img.shields.io/badge/School%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
-    <a href="https://github.com/Al-shwaib/Al-shwaib/Resturant-Management-System">
+    <a href="https://github.com/Al-shwaib/Resturant-Management-System">
       <img src="https://img.shields.io/badge/Resturant%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
     <!-- <a href="https://github.com/Al-shwaib/accounting-system">
