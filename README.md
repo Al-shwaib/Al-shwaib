@@ -114,15 +114,6 @@
     </a>
   </p>
 
-  <h3>📱 Mobile & Tools</h3>
-  <p>
-    <a href="https://github.com/Al-shwaib/pharmacy-finder">
-      <img src="https://img.shields.io/badge/Pharmacy%20Finder-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    </a>
-    <a href="https://github.com/Al-shwaib/Internet-Speed-Test">
-      <img src="https://img.shields.io/badge/Speed%20Test-Network%20Tool-1A73E8?style=for-the-badge&logo=speedtest&logoColor=white" />
-    </a>
-  </p>
 </div>
 
 <div align="center">
