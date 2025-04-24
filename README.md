@@ -86,10 +86,10 @@
 
 <div align="center">
   <h3>🌐 Web Applications</h3>
-  <p>
-    <a href="https://github.com/Al-shwaib/pharmacy-management">
-      <img src="https://img.shields.io/badge/Pharmacy%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    </a>
+    <p>
+      <a href="https://github.com/Al-shwaib/Dawaa-Platform" target="_blank">
+        <img src="https://img.shields.io/badge/Dawaa%20Platform-Laravel%20%7C%20Flutter-02569B?style=for-the-badge&logo=laravel&logoColor=white" />
+      </a>
         <a href="https://github.com/Al-shwaib/School-Management-System">
       <img src="https://img.shields.io/badge/School%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
