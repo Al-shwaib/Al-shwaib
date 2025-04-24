@@ -89,12 +89,15 @@
     <a href="https://github.com/Al-shwaib/pharmacy-management">
       <img src="https://img.shields.io/badge/Pharmacy%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
-    <a href="https://github.com/Al-shwaib/restaurant-system">
-      <img src="https://img.shields.io/badge/Restaurant%20System-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <a href="https://github.com/Al-shwaib/Al-shwaib/School-Management-System">
+      <img src="https://img.shields.io/badge/Pharmacy%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </a>
-    <a href="https://github.com/Al-shwaib/accounting-system">
+    <a href="https://github.com/Al-shwaib/Al-shwaib/School-Management-System">
+      <img src="https://img.shields.io/badge/Pharmacy%20Management-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    </a>
+    <!-- <a href="https://github.com/Al-shwaib/accounting-system">
       <img src="https://img.shields.io/badge/Accounting%20System-Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-    </a>
+    </a> -->
   </p>
 
   <h3>🛡️ Security Tools</h3>
