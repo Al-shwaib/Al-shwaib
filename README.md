@@ -28,6 +28,10 @@
         <br><sub>PHP</sub>
       </td>
       <td align="center" width="80" style="border: none;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
+        <br><sub>Laravel</sub>
+      </td>
+      <td align="center" width="80" style="border: none;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" />
         <br><sub>JavaScript</sub>
       </td>
@@ -39,14 +43,10 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" height="40" alt="MySQL" />
         <br><sub>MySQL</sub>
       </td>
-      <td align="center" width="80" style="border: none;">
+      <!-- <td align="center" width="80" style="border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" />
         <br><sub>.NET</sub>
-      </td>
-      <td align="center" width="80" style="border: none;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
-        <br><sub>Laravel</sub>
-      </td>
+      </td> -->
     </tr>
     <tr style="border: none; background: transparent;">
       <td align="center" width="80" style="border: none;">
@@ -69,10 +69,10 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40" alt="AWS" />
         <br><sub>AWS</sub>
       </td>
-      <td align="center" width="80" style="border: none;">
+      <!-- <td align="center" width="80" style="border: none;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
         <br><sub>Android</sub>
-      </td>
+      </td> -->
     </tr>
   </table>
 </div>
