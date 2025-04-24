@@ -4,7 +4,8 @@
   </a>
 </h1>
 
-<p align="center">I'm a Full-Stack Developer and Web Security Specialist from Yemen 🇾🇪</p>
+<p align="center">I'm a Full-Stack Developer and Web Security Enthusiast from Yemen 🇾🇪, dedicated to crafting secure, high-performance applications that prioritize both functionality and protection.
+</p>
 
 <div align="center">
   
